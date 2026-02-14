@@ -40,8 +40,8 @@ To run the projects:
    ```
 3. Execute the main program using the appropriate language commands:
    ```bash
-   # for example, if in Python
-   python main.py
+   gcc main.c -o main
+   ./main
    ```
 
 ## Technologies Used
