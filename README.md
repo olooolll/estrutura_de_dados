@@ -45,11 +45,10 @@ To run the projects:
    ```
 
 ## Technologies Used
-- Programming Languages: Python, Java, C++
-- Tools: Git, GitHub, Visual Studio Code
+- Programming Languages: C
+- Tools: GitHub, Clion
 - Concepts: Data Structures and Algorithms
 
 ## Author Information
-*Author: [Your Name]*  
-*Contact: your-email@example.com*  
+*Author: Guilherme Araujo Costa*  
 *Date: 2026-02-14*
