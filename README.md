@@ -4,7 +4,7 @@
 This project aims to provide a comprehensive guide on various data structures and their implementations. The course covers theoretical knowledge, practical applications, and project guidelines to equip students with essential skills in data manipulation and algorithm optimization.
 
 ## Topics Covered
-- Introduction to Data Structures
+- [Introduction to Data Structures](https://github.com/olooolll/dataStruct/tree/main/TAD)
 - Arrays and Strings
 - Linked Lists
 - Stacks
