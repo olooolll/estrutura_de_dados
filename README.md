@@ -1,85 +1,55 @@
-📚 Data Structures
+# Data Structures Course Documentation
 
-This repository contains materials, implementations, and exercises developed for the Data Structures course during my undergraduate studies.
+## Project Overview
+This project aims to provide a comprehensive guide on various data structures and their implementations. The course covers theoretical knowledge, practical applications, and project guidelines to equip students with essential skills in data manipulation and algorithm optimization.
 
-🎯 Purpose
+## Topics Covered
+- Introduction to Data Structures
+- Arrays and Strings
+- Linked Lists
+- Stacks
+- Queues
+- Trees
+- Graphs
+- Hash Tables
+- Sorting Algorithms
+- Searching Algorithms
+- Complexity Analysis
 
-The goal of this repository is to:
+## ADT Implementations
+1. **Arrays**: Implementation of dynamic and static arrays with operations such as insert, delete, and access.
+2. **Linked Lists**: Singly and doubly linked list implementations with various traversal and manipulation methods.
+3. **Stacks**: Implementation of stack with push, pop, and peek operations.
+4. **Queues**: Implementation of queue with enqueue, dequeue, and front operations.
+5. **Trees**: Binary tree and binary search tree implementations with traversal algorithms.
+6. **Graphs**: Representation of graphs using adjacency matrix and adjacency list, with traversal methods like DFS and BFS.
+7. **Hash Tables**: Implementation of hash tables with collision resolution techniques.
 
-Practice fundamental Data Structures concepts
+## Structure
+The course is structured into multiple modules, each focusing on a specific data structure, providing theoretical background, followed by coding sessions and project work.
 
-Implement classical data structures from scratch
+## How to Run
+To run the projects:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/olooolll/dataStruct.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd dataStruct
+   ```
+3. Execute the main program using the appropriate language commands:
+   ```bash
+   # for example, if in Python
+   python main.py
+   ```
 
-Improve logical reasoning and problem-solving skills
+## Technologies Used
+- Programming Languages: Python, Java, C++
+- Tools: Git, GitHub, Visual Studio Code
+- Concepts: Data Structures and Algorithms
 
-Study algorithm efficiency and time complexity
-
-Serve as future reference material
-
-🧠 Topics Covered
-
-Some of the main topics studied in this course include:
-
-Arrays and Matrices
-
-Linked Lists
-
-Stacks
-
-Queues
-
-Trees
-
-Graphs
-
-Sorting Algorithms
-
-Searching Algorithms
-
-Big-O Complexity Analysis
-
-📂 Repository Structure
-dataStruct/
-│
-├── arrays/
-├── linked-lists/
-├── stacks/
-├── queues/
-├── trees/
-├── graphs/
-└── other-exercises/
-
-
-🚀 How to Run
-
-Clone the repository:
-
-git clone https://github.com/olooolll/dataStruct.git
-
-
-Navigate into the project folder:
-
-cd dataStruct
-
-
-Compile and run according to the programming language used.
-
-Example (C)
-gcc main.cpp -o program
-./program
-
-🛠 Technologies Used
-
-Main Language: C
-
-IDE: VS Code and Clion
-
-📌 Notes
-
-This repository is intended for academic purposes only.
-
-👨‍🎓 Author
-
-Developed by Guilherme Araujo Costa
-Course: Data Structures
-Institution: Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP)
+## Author Information
+*Author: [Your Name]*  
+*Contact: your-email@example.com*  
+*Date: 2026-02-14*
