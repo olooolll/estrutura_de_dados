@@ -17,7 +17,18 @@ add_executable(ex2
         Pilha/Exercicio2/Pilha.c
         Pilha/Exercicio2/Aluno.c
 )
+
 add_executable(Lista Lista/Exercicio1/Lista.c
         Lista/Exercicio1/Lista.c
         Lista/Exercicio1/Lista.h
         Lista/Exercicio1/main.c)
+
+add_executable(Lista2 Lista/Exercicio2/Lista.c
+        Lista/Exercicio2/Lista.c
+        Lista/Exercicio2/Lista.h
+        Lista/Exercicio2/main.c
+        Lista/Exercicio2/Lista.h
+        Lista/Exercicio2/Lista.c
+        Lista/Exercicio2/Veiculo.c
+        Lista/Exercicio2/Veiculo.h
+        Lista/Exercicio2/main.c)
