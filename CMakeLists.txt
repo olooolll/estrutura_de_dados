@@ -32,3 +32,9 @@ add_executable(Lista2 Lista/Exercicio2/Lista.c
         Lista/Exercicio2/Veiculo.c
         Lista/Exercicio2/Veiculo.h
         Lista/Exercicio2/main.c)
+
+add_executable(Lista3
+        Lista_encadeada/Exercicio1/Lista.c
+        Lista_encadeada/Exercicio1/Lista.h
+        Lista_encadeada/Exercicio1/main.c
+)
