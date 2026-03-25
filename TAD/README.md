@@ -1,59 +1,65 @@
-# TAD Projects Documentation
+# Documentação de Projetos TAD
 
-This document provides comprehensive information about the following TAD (Type Abstract Data) projects contained within the TAD directory:
+Este documento fornece informações abrangentes sobre os seguintes projetos de TAD (Tipos Abstratos de Dados) contidos no diretório TAD:
 
 ## 1. Conta
 
-### Overview
-- Description of what the Conta project is and its purpose.
+### Visão Geral
+- Descrição do projeto Conta e sua finalidade.
 
-### Features
-- List of main features and functionalities.
+### Funcionalidades
+- Lista das principais características e funcionalidades.
 
-### Usage
-- Instructions on how to use the Conta project.
+### Uso
+- Instruções sobre como utilizar o projeto Conta.
 
-### Example
-- Example code or output demonstrating the use of Conta.
+### Exemplo
+- Exemplo de código ou saída demonstrando o uso da Conta.
+
+---
 
 ## 2. Curso
 
-### Overview
-- Description of the Curso project.
+### Visão Geral
+- Descrição do projeto Curso.
 
-### Features
-- List of functionalities specific to Curso.
+### Funcionalidades
+- Lista de funcionalidades específicas do Curso.
 
-### Usage
-- Instructions for utilizing the Curso project.
+### Uso
+- Instruções para utilização do projeto Curso.
 
-### Example
-- Example showcasing Curso functionality.
+### Exemplo
+- Exemplo demonstrando a funcionalidade do Curso.
+
+---
 
 ## 3. Fracao
 
-### Overview
-- Brief description of the Fracao project.
+### Visão Geral
+- Breve descrição do projeto Fração.
 
-### Features
-- Key features of the Fracao implementation.
+### Funcionalidades
+- Principais características da implementação de Fração.
 
-### Usage
-- Guidelines on how to implement and run Fracao.
+### Uso
+- Diretrizes sobre como implementar e executar o projeto Fração.
 
-### Example
-- Sample use case for Fracao.
+### Exemplo
+- Caso de uso de exemplo para Fração.
+
+---
 
 ## 4. Retangulo
 
-### Overview
-- Overview of the Retangulo project.
+### Visão Geral
+- Visão geral do projeto Retângulo.
 
-### Features
-- Notable features available in the Retangulo project.
+### Funcionalidades
+- Recursos notáveis disponíveis no projeto Retângulo.
 
-### Usage
-- Instructions on how to use the Retangulo.
+### Uso
+- Instruções sobre como usar o Retângulo.
 
-### Example
-- Example to demonstrate the Retangulo project functionality.
+### Exemplo
+- Exemplo para demonstrar a funcionalidade do projeto Retângulo.
