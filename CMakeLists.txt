@@ -52,3 +52,5 @@ add_executable(Lista5
 )
 
 target_link_libraries(Lista5 m)
+add_executable(Simulado1 Simulados/Simulado1/Lista.c Simulados/Simulado1/Lista.h
+        Simulados/Simulado1/main.c)
